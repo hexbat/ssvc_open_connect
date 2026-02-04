@@ -64,6 +64,7 @@ nav:
       - usage/interfaces/ds18b20.md
       - usage/interfaces/rgb_led.md
       - usage/interfaces/pin_out.md
+      - usage/interfaces/bmp581.md
   - "Руководство пользователя":
       - usage/get_started.md
       - usage/user_management.md
